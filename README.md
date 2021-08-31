@@ -9,9 +9,13 @@ Ce projet est basé sur la developpement d'un jeu vidéo.
 Le workflow à donc été défini de la sorte:
 
 master ==> Version de production du projet
+
 hotfixes ==> Correctifs impromptus du projet (merge directement vers master)
+
 releases ==> Versions majeures du projet (merge directement vers master et merge vers dev pour correction de bugs)
+
 dev ==> Versions de développement qui ajoute les différentes fonctionnalités et corrige les bugs (merge vers release)
+
 features ==> Fonctionnalités à ajoutés, scindé en 2 dossiers: /WIP pour les fonctionnalités futures en cours de developpement et /to-do pour les fonctionnalités à concevoir (merge directement vers dev)
 
 === Fonctionnalités du projet ===
