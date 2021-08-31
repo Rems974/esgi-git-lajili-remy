@@ -26,11 +26,11 @@ Tous les commits, peu importe d'où ils sont fait, sont signés et vérifiés.
 
 Tout d'abord il faut générer une clé GPG en suivant ses différentes étapes:
 
-gpg --full-generate-key
+$ gpg --full-generate-key
 
 Remplir les informations demandées
 
-gpg --list-secret-keys --keyid-format=long
+$ gpg --list-secret-keys --keyid-format=long
 
 ./Users/test/.gnupg/secring.gpg
 
