@@ -18,6 +18,8 @@ dev ==> Versions de développement qui ajoute les différentes fonctionnalités 
 
 features ==> Fonctionnalités à ajoutés, scindé en 2 dossiers: /WIP pour les fonctionnalités futures en cours de developpement et /to-do pour les fonctionnalités à concevoir (merge directement vers dev)
 
+2 pull requests ont été créer entre releases et dev pour permettre à l'équipe de développement de revenir sur certaines correction de bugs.
+
 # === Fonctionnalités du projet ===
 
 Tous les commits, peu importe d'où ils sont fait, sont signés et vérifiés.
